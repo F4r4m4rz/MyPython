@@ -1,3 +1,5 @@
+
+
 def Fibonacci(seq):
     if type(seq) != int:
         raise ValueError("Expecting integer")
